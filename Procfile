@@ -1,0 +1,1 @@
+web: gunicorn spider_project.wsgi
